@@ -1,0 +1,88 @@
+.verifier-dashboard {
+  padding: 30px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f6f8;
+  min-height: 100vh;
+}
+
+.top-heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: #2d3748;
+  margin-bottom: 20px;
+}.wallet-cards-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.wallet-card {
+  width: 250px;
+  padding: 16px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.stat-card {
+  background: #fff;
+  padding: 1.2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: center;
+  min-width: 180px;
+  position: relative;
+}
+
+.add-fund-btn {
+  margin-top: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.add-fund-btn:hover {
+  background-color: #45a049;
+}
+
+
+.wallet-amount {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.add-fund-btn {
+  margin-top: 10px;
+  background-color: #2563eb;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.add-fund-btn:hover {
+  background-color: #1e40af;
+}
+.fancy-btn {
+  margin-top: 10px;
+  padding: 10px 16px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  background: linear-gradient(135deg, #4b6cb7, #182848);
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+}
+
+.fancy-btn:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #5f87f5, #1f2f98);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+

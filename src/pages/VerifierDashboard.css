@@ -1,0 +1,176 @@
+.verifier-dashboard {
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9ff;
+}
+
+.dashboard-heading {
+  text-align: center;
+  font-size: 26px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.table-container {
+  overflow-x: auto;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.loan-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.loan-table th, .loan-table td {
+  padding: 14px 20px;
+  text-align: left;
+}
+
+.loan-table th {
+  background-color: #4a90e2;
+  color: white;
+}
+
+.loan-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.fancy-select {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f0f8ff;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.page-btn {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  background: #e2e6f3;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.page-btn.active {
+  background-color: #4a90e2;
+  color: white;
+}
+
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(30, 30, 30, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup {
+  background: white;
+  padding: 25px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  max-width: 400px;
+}
+
+.popup-actions {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.confirm-btn, .cancel-btn {
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.confirm-btn {
+  background: #28a745;
+  color: white;
+}
+
+.cancel-btn {
+  background: #dc3545;
+  color: white;
+}
+
+.welcome-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  border-radius: 20px;
+  padding: 25px 35px;
+  margin: 30px auto;
+  width: 85%;
+  color: #fff;
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  animation: fadeSlide 0.6s ease-in-out;
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+}
+
+.welcome-left .avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  background: #fff;
+}
+
+.welcome-right h2 {
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.welcome-right p {
+  font-size: 16px;
+  margin: 2px 0;
+}
+
+.username {
+  color: #353c18;
+  font-weight: bold;
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.top-heading {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 20px;
+  color: #4a90e2;
+}
