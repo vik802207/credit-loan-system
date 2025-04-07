@@ -82,7 +82,13 @@ credit-loan-system/
 │   └── public/
 └── README.md
 ## 📸 Screenshots
-💡 Add screenshots of the Admin and Verifier dashboard, and login/signup page here for better clarity.
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(334).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(339).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(335).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(336).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(337).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(338).png?raw=true)
+
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
