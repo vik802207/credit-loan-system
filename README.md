@@ -83,9 +83,9 @@ credit-loan-system/
 └── README.md
 ## 📸 Screenshots
 ![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(334).png?raw=true)
-![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(334).png?raw=true)
-![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(334).png?raw=true)
-![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(339).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(340).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(341).png?raw=true)
+![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(342).png?raw=true)
 ![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(335).png?raw=true)
 ![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(336).png?raw=true)
 ![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(337).png?raw=true)
