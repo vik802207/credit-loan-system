@@ -7,7 +7,8 @@ const connectDB = require('./config/db');
 const app = express();
 
 app.use(cors({
-  origin: '*'
+  origin: 'https://magical-cat-74ec58.netlify.app/',
+  credentials: true
 }));
 app.use(express.json());
 
