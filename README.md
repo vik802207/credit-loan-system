@@ -63,9 +63,7 @@ Role	Access
 Admin	Full access to all applications, wallets, user management
 Verifier	Can verify/reject applications before admin review
 ## 📁 Folder Structure
-pgsql
-Copy
-Edit
+```bash
 credit-loan-system/
 ├── backend/
 │   ├── controllers/
@@ -81,6 +79,7 @@ credit-loan-system/
 │   │   └── App.js
 │   └── public/
 └── README.md
+```
 ## 📸 Screenshots
 ![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(334).png?raw=true)
 ![Alt text](https://github.com/vik802207/credit-loan-system/blob/master/img/Screenshot%20(340).png?raw=true)
